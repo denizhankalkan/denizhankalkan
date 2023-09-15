@@ -2,7 +2,7 @@
 <h3 align="center">Software Development Engineer 👩‍💻</h3>
 
 
-- 🔭 I’m currently working on **Denmax Travel App 👩‍💻**
+- 🔭 I’m currently working on **Amadeus IT Group 👩‍💻**
 
 - 🌱 I’m currently learning **Go Lang**
 
